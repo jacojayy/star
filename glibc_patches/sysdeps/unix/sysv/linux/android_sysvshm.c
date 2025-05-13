@@ -4,7 +4,7 @@
 #define REQUEST_CODE_GET_FD 1
 #define REQUEST_CODE_DELETE 2
 
-/* based on https://github.com/pelya/android-shmem */
+
 
 #define MIN_REQUEST_LENGTH 5
 

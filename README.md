@@ -7,7 +7,7 @@
 </p>
 
 # Winlator@Omod
-Winlator@Omod is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/)​
+Winlator@Omod stands for "Winlator with Optimized module" and is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/)​
 
 Join us in our official Telegram channel - [Click Here](https://t.me/omodreleases)​
 

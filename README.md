@@ -29,8 +29,8 @@ Join us in our official Telegram channel - [Click Here](https://t.me/omodrelease
 ----
 # Testing videos by the community.
 
-## Biomorph 2025
-[![Youtube](https://img.youtube.com/vi/5VPGw3KTaiE/0.jpg)](https://www.youtube.com/watch?v=5VPGw3KTaiE)
+## The Cursed Crusade (Snapdragon 8 gen 3)
+[![Youtube](https://img.youtube.com/vi/ZG_ytKeQ8uA/0.jpg)](https://www.youtube.com/watch?v=ZG_ytKeQ8uA)
 
 ## Assassins Creed Origins (Snapdragon 8 gen 3)
 [![Youtube](https://img.youtube.com/vi/_QaRLDuOZGg/0.jpg)](https://www.youtube.com/watch?v=_QaRLDuOZGg)

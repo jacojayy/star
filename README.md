@@ -16,7 +16,7 @@ Join us in our official Telegram channel - [Click Here](https://t.me/omodrelease
 2. Launch the app and wait for the installation process to finish
 3. Enjoy your applications or games on the application for Android!
 
-[Latest signed.apk](https://github.com/antonoca/winlator-omod/releases/tag/8231f24)
+[Latest signed.apk](https://github.com/antonoca/winlator-omod/releases/latest)
 
 [Latest signed-benchproot.apk](https://github.com/antonoca/winlator-omod/releases/tag/3d01ba8)
 

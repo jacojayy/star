@@ -12,7 +12,7 @@ Winlator@Omod stands for "Winlator with Optimized module" and is an Android appl
 Join us in our official Telegram channel - [Click Here](https://t.me/omodreleases)
 
 # Quick note
-I do not update this branch to be upstreamed with bruno's one as I have to delete all of my previous commits (including new dx wrappers and turnips) to just be synced. I created new branch so I can keep the dx wrappers in other one and apk releases on this one.
+I do not update main branch to be upstreamed with bruno's one as I have to delete all of my previous commits (including new dx wrappers and turnips) to just be synced. I created new branch so I can keep the dx wrappers in other one and apk releases on this one.
 
 # Installation
 1. Download and install the APK (signed.apk or signed-benchproot.apk).

@@ -8,16 +8,17 @@ Winlator@Omod stands for "Winlator with Optimized module" and is an Android appl
 Join us in our official Telegram channel - [Click Here](https://t.me/omodreleases) 
 
 # Installation 
-1. Download and install the APK (signed.apk or signed-benchproot.apk).
+1. Download and install the APK (signed.apk, signed_rootfs-old or signed-benchproot.apk).
 2. Launch the app and wait for the installation process to finish
 3. Enjoy your applications or games on the application for Android!
 
-[Latest signed.apk](https://github.com/antonoca/winlator-omod/releases/latest)
+[Latest signed.apk or signed_rootfs-old.apk](https://github.com/antonoca/winlator-omod/releases/latest)
 
 [Latest signed-benchproot.apk](https://github.com/antonoca/winlator-omod/releases/tag/3d01ba8)
 
 ----
 - signed.apk is the winlator 10 version fork with native glibc and the one who is continued mainly.
+- signed_rootfs-old is the winlator 10 version fork with native glibc and the one who is continued mainly and has the old rootfs prefix of winlator 10 that may heat up less.
 - signed-benchproot.apk is the winlator 9 version fork with proot + benchmark package name that does not require the user to uninstall the normal winlator and speeds up the games in certain devices. this is not recommended as it can ruin your phone as its like doing a very long benchmark so be careful with this version.
 ----
  # Testing videos by the community.

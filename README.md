@@ -14,7 +14,7 @@ Join us in our official Telegram channel - [Click Here](https://t.me/omodrelease
 
 [Latest signed.apk](https://github.com/antonoca/winlator-omod/releases/latest)
 
-[Latest signed_rootfs-old.apk](https://github.com/antonoca/winlator-omod/releases/download/710af70/signed_rootfs-old.apk)
+[Latest signed_rootfs-old.apk](https://github.com/antonoca/winlator-omod/releases/download/710af70/signed_rootfs-old.apk) - Same as signed.apk, no changes other than rootfs
 
 [Latest signed-benchproot.apk](https://github.com/antonoca/winlator-omod/releases/tag/3d01ba8)
 

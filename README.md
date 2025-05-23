@@ -12,11 +12,7 @@ Join us in our official Telegram channel - [Click Here](https://t.me/omodrelease
 2. Launch the app and wait for the installation process to finish
 3. Enjoy your applications or games on the application for Android!
 
-[Latest signed.apk](https://github.com/antonoca/winlator-omod/releases/latest)
-
-[Latest signed_rootfs-old.apk](https://github.com/antonoca/winlator-omod/releases/download/710af70/signed_rootfs-old.apk) - Same as signed.apk, no changes other than rootfs
-
-[Latest signed-benchproot.apk](https://github.com/antonoca/winlator-omod/releases/tag/3d01ba8)
+[Latest stable release](https://github.com/antonoca/winlator-omod/releases/latest)
 
 [Wine versions](https://github.com/antonoca/winlator-omod/releases/tag/wine-omodpack)
 

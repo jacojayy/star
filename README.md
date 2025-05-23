@@ -7,6 +7,7 @@ Winlator@Omod stands for "Winlator with Optimized module" and is an Android appl
 
 Join us in our official Telegram channel - [Click Here](https://t.me/omodreleases) 
 
+Switch to Bionic - [Click here](https://github.com/antonoca/winlator-omod/tree/bionic)
 # Installation 
 1. Download and install the APK (signed.apk, signed_rootfs-old or signed-benchproot.apk).
 2. Launch the app and wait for the installation process to finish

@@ -1,5 +1,5 @@
 <p align="center"> <img src="lomodlogo.png" width="376" height="128" alt="Winlator" />
-</p> <p align="left"> <img src="https://img.shields.io/github/downloads/antonoca/winlator-omod/total" alt="Total Downloads" width="150"></p>
+</p> <p align="center"> <img src="https://img.shields.io/github/downloads/antonoca/winlator-omod/total" alt="Total Downloads" width="150"></p>
 
  # Winlator@Omod 
 

@@ -17,11 +17,6 @@ Switch to Bionic - [Click here](https://github.com/antonoca/winlator-omod/tree/b
 
 [Wine versions](https://github.com/antonoca/winlator-omod/releases/tag/wine-omodpack)
 
-----
-- signed.apk is the winlator 10 version fork with native glibc and the one who is continued mainly.
-- signed_rootfs-old is the winlator 10 version fork with native glibc and the one who is continued mainly and has the old rootfs prefix of winlator 10 that may heat up less.
-- signed-benchproot.apk is the winlator 9 version fork with proot + benchmark package name that does not require the user to uninstall the normal winlator and speeds up the games in certain devices. this is not recommended as it can ruin your phone as its like doing a very long benchmark so be careful with this version.
-----
  # Testing videos by the community.
 ## The Cursed Crusade (Snapdragon 8 gen 3)[![Youtube](https://img.youtube.com/vi/ZG_ytKeQ8uA/0.jpg)](https://www.youtube.com/watch?v=ZG_ytKeQ8uA)
 ## Assassins Creed Origins (Snapdragon 8 gen 3) [![Youtube](https://img.youtube.com/vi/_QaRLDuOZGg/0.jpg)](https://www.youtube.com/watch?v=_QaRLDuOZGg) 

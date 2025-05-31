@@ -18,13 +18,14 @@ Join us in our official Telegram channel - [Click Here](https://t.me/omodrelease
 [Wine versions](https://github.com/antonoca/winlator-omod/releases/tag/wine-omodpack)
 
  # Testing videos by the community.
-## The Cursed Crusade (Snapdragon 8 gen 3)[![Youtube](https://img.youtube.com/vi/ZG_ytKeQ8uA/0.jpg)](https://www.youtube.com/watch?v=ZG_ytKeQ8uA)
-## Assassins Creed Origins (Snapdragon 8 gen 3) [![Youtube](https://img.youtube.com/vi/_QaRLDuOZGg/0.jpg)](https://www.youtube.com/watch?v=_QaRLDuOZGg) 
-## Harvestella 2022 (Snapdragon 8 gen 3) [![Youtube](https://img.youtube.com/vi/rUaSPvY1HEA/0.jpg)](https://www.youtube.com/watch?v=rUaSPvY1HEA) 
-## Sleeping Dogs (Snapdragon 8 gen 3) [![Youtube](https://img.youtube.com/vi/wQ__wGjtom8/0.jpg)](https://www.youtube.com/watch?v=wQwGjtom8) 
-## Ten Bells (Snapdragon 8 gen 3) [![Youtube](https://img.youtube.com/vi/yvhavPfdfLM/0.jpg)](https://www.youtube.com/watch?v=yvhavPfdfLM) 
+## Far Cry 3 (Snapdragon 845) [![Youtube](https://img.youtube.com/vi/YyDbxFfiXvA/0.jpg)](https://www.youtube.com/watch?v=YyDbxFfiXvA) 
 
-**(ps. even tho the logo is different, the emulator is the same, i changed the logo. this is just the new repo as the old one got hacked and deleted, basically a new beginning.)** 
+## Sifu (Snapdragon 8s Gen 3) [![Youtube](https://img.youtube.com/vi/DCfI2Y9c-Wo/0.jpg)](https://www.youtube.com/watch?v=DCfI2Y9c-Wo) 
+
+## Resident Evil 7: Biohazard (Snapdragon 8s Gen 3) [![Youtube](https://img.youtube.com/vi/JVsQYh7v-IU/0.jpg)](https://www.youtube.com/watch?v=JVsQYh7v-IU) 
+
+## The Witcher III (Snapdragon 8s Gen 3) [![Youtube](https://img.youtube.com/vi/d99UbwgEzzA/0.jpg)](https://www.youtube.com/watch?v=d99UbwgEzzA) 
+
 # Troubleshooting
 - If you are experiencing performance issues, try changing the Box64 preset to `Performance` in Container Settings -> Advanced Tab.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools -> Installers.

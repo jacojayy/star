@@ -10,7 +10,7 @@ assignees: ''
 Please describe the issue in as much detail as possible.
 
 ### General Information
-- Winlator Version:
+- Omod Version:
 - Smartphone Model:
 
 ### Container Settings

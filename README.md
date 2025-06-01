@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="WhiteLogo.png" width="" height="" alt="Winlator@Omod" />  
+</p>
 
 [![Omod Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&pause=1000&color=1F6C8E&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Winlator%40Omod+GitHub+Page;Made+with+pure+%E2%9D%A4%EF%B8%8F+by+Nocca;Omod+is+the+example+of+It.+Just.+Works.;On+the+leaderboard+since+the+2nd+May.;https%3A%2F%2Ft.me%2Fomodreleases;Pizza+can+only+be+eaten+in+Italy.)](https://youtu.be/qbZi53TeGNM?si=PvKyv4pAe6jv_hk-)
 

@@ -5,17 +5,18 @@
 [![Omod Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=435&lines=Star+this+repo!;Omod+Github+Page;The+definition+of+it+just+works;In+the+leaderboard+since+the+2nd+May)](https://youtu.be/qbZi53TeGNM?si=PvKyv4pAe6jv_hk-)
 
 <details>
-  <summary><strong>📊 Click here to show downloads</strong></summary>
+  <summary><strong> 📊 Click here to show downloads</strong></summary>
 
 </p> <p align="center"> <img src="https://img.shields.io/github/downloads/antonoca/winlator-omod/total" alt="Total Downloads" width="150"></p>
 </details>
 
-# Winlator@Omod 
+# Winlator@Omod
 Winlator@Omod stands for "Winlator with Optimized module" and is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
 
-Join us in our official Telegram channel - [Click Here](https://t.me/omodreleases) 
+> Join us in our official Telegram channel [Click Here](https://t.me/omodreleases) 
 
-# Installation 
+----
+**Ready to experience Omod?**
 1. Download and install the APK.
 2. Launch the app and wait for the installation process to finish
 3. Enjoy your applications or games on the application for Android!

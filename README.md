@@ -2,7 +2,8 @@
 	<img src="WhiteLogo.png" width="" height="" alt="Winlator@Omod" />  
 </p>
 
-[![Omod Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=435&lines=Star+this+repo!;Omod+Github+Page;The+definition+of+it+just+works;In+the+leaderboard+since+the+2nd+May)](https://youtu.be/qbZi53TeGNM?si=PvKyv4pAe6jv_hk-)
+</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=435&lines=Star+this+repo!;Omod+Github+Page;The+definition+of+it+just+works;In+the+leaderboard+since+the+2nd+May" alt="Omod Typing SVG" width=""></p>
+</details>
 
 <details>
   <summary><strong> 📊 Click here to show downloads</strong></summary>

@@ -2,7 +2,7 @@
 	<img src="WhiteLogo.png" width="" height="" alt="Winlator@Omod" />  
 </p>
 
-</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=435&lines=Star+this+repo!;Omod+Github+Page;The+definition+of+it+just+works;In+the+leaderboard+since+the+2nd+May" alt="Omod Typing SVG" width=""></p>
+</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Winlator%40Omod+GitHub+Page;The+actual+n%C2%B01+Winlator+mod;In+the+leaderboard+since+the+2nd+May;Breaking+the+boundaries+day+by+day;Make+sure+to+star+the+repository!" alt="Omod Typing SVG" width=""></p>
 </details>
 
 <details>
@@ -12,7 +12,7 @@
 </details>
 
 # Winlator@Omod
-Winlator@Omod stands for "Winlator with Optimized module" and is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. Originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
+Winlator@Omod is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
 
 > Join us in our official Telegram channel [Click Here](https://t.me/omodreleases) 
 

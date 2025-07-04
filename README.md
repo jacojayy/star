@@ -12,15 +12,15 @@
 </details>
 
 # Winlator@Omod
-Winlator@Omod is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
+Winlator@Omod is a mod of Winlator, an app that lets you run Windows applications on Android devices, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
 
 > Join us in our official Telegram channel [Click Here](https://t.me/omodreleases) 
 
 ----
 **Ready to experience Omod?**
-1. Download and install the APK.
+1. Download and install the APK from the links below
 2. Launch the app and wait for the installation process to finish
-3. Enjoy your applications or games on the application for Android!
+3. Open an application from your personal Download folder.
 
 [Latest stable release](https://github.com/antonoca/winlator-omod/releases/latest)
 

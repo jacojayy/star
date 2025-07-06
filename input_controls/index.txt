@@ -27,6 +27,7 @@ Oblivion.icp
 Prey.icp
 Psychonauts.icp
 Quake 4.icp
+Racing.icp
 RAGE.icp
 Rayman 3.icp
 Risen 2.icp

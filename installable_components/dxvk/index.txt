@@ -16,7 +16,7 @@ dxvk-1.7.2.tzst
 dxvk-1.7.1.tzst
 dxvk-1.4.2.tzst
 dxvk-1.3.2.tzst
-dxvk-1.10.3.0.tzst
+dxvk-async-1.10.3.tzst
 dxvk-0.96.tzst
 dxvk-0.40.1.tzst
 dxvk-0.39.2.tzst

@@ -12,7 +12,7 @@
 </details>
 
 # Development Paused.
-Hello. Ive decided to temporarily pause the Winlator Omod development, including the development future builds. Im currently taking a break from the internet overall, so Telegram, Discord etc.
+Hello. I decided to temporarily pause the Winlator Omod development, including the development of the future builds. Im currently taking a break from the internet overall, so Telegram, Discord etc.
 
 This doesnt mean that the project is permanently discontinued, but temporarily. Even if I discontinue this project, I can assure you that it wasnt useless. Ive learnt a lot of things just from this project. Im really grateful for what it currently is and will be.
 

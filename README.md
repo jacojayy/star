@@ -11,6 +11,16 @@
 </p> <p align="center"> <img src="https://img.shields.io/github/downloads/antonoca/winlator-omod/total" alt="Total Downloads" width="150"></p>
 </details>
 
+# Development Paused.
+Hello. Ive decided to temporarily pause the Winlator Omod development, including the development future builds. Im currently taking a break from the internet overall, so Telegram, Discord etc.
+
+This doesnt mean that the project is permanently discontinued, but temporarily. Even if I discontinue this project, I can assure you that it wasnt useless. Ive learnt a lot of things just from this project. Im really grateful for what it currently is and will be.
+
+Thanks
+- Jay
+
+----
+
 # Winlator@Omod
 Winlator@Omod is a mod of Winlator, an app that lets you run Windows applications on Android devices, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
 

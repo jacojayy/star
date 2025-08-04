@@ -1,7 +1,7 @@
 10.1 coming btw
 
 <p align="center">
-	<img src="logo.png" width="" height="" alt="Winlator@Omod" />  
+	<img src="20250803_210212.png" width="" height="" alt="Winlator@Omod" />  
 </p>
 
 </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Winlator%40Omod+GitHub+Page;The+actual+n%C2%B01+Winlator+mod;In+the+leaderboard+since+the+2nd+May;Breaking+the+boundaries+day+by+day;Make+sure+to+star+the+repository!" alt="Omod Typing SVG" width=""></p>
@@ -55,4 +55,5 @@ Winlator@Omod is a mod of Winlator, an app that lets you run Windows application
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Certain parts of the prefix - ([Ajay Prefix](https://github.com/ajay9634/Ajay-prefix))
+
 

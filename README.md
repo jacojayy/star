@@ -1,5 +1,3 @@
-10.1 coming btw
-
 <p align="center">
 	<img src="20250803_210212.png" width="" height="" alt="Winlator@Omod" />  
 </p>
@@ -55,5 +53,6 @@ Winlator@Omod is a mod of Winlator, an app that lets you run Windows application
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Certain parts of the prefix - ([Ajay Prefix](https://github.com/ajay9634/Ajay-prefix))
+
 
 

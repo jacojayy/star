@@ -2,17 +2,11 @@
 	<img src="20250803_210212.png" width="" height="" alt="Winlator@Omod" />  
 </p>
 
-</p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Winlator%40Omod+GitHub+Page;The+actual+n%C2%B01+Winlator+mod;In+the+leaderboard+since+the+2nd+May;Breaking+the+boundaries+day+by+day;Make+sure+to+star+the+repository!" alt="Omod Typing SVG" width=""></p>
-</details>
-
-<details>
-  <summary><strong> 📊 Click here to show downloads</strong></summary>
-
-</p> <p align="center"> <img src="https://img.shields.io/github/downloads/antonoca/winlator-omod/total" alt="Total Downloads" width="150"></p>
-</details>
+# Winlator Omod is discontinued.
+Hello, everyone. Winlator Omod is now discontinued, and is merged with Frost. I will be developing Frost with PhryaNik instead, so check out [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost) !. The new Telegram link for Frost is https://t.me/winfrost .
 
 # Winlator@Omod
-Winlator@Omod is a mod of Winlator, an app that lets you run Windows applications on Android devices, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
+Winlator@Omod was a mod of Winlator, an app that lets you run Windows applications on Android devices, originally from [BrunoSX](https://github.com/brunodev85/Winlator), modified by [antonoca](https://github.com/antonoca/) 
 
 > Join us in our official Telegram channel [Click Here](https://t.me/omodreleases) 
 
@@ -53,6 +47,7 @@ Winlator@Omod is a mod of Winlator, an app that lets you run Windows application
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Certain parts of the prefix - ([Ajay Prefix](https://github.com/ajay9634/Ajay-prefix))
+
 
 
 

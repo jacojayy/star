@@ -10,7 +10,7 @@ assignees: ''
 Please describe the issue in as much detail as possible.
 
 ### General Information
-- Omod Version:
+- star Version:
 - Smartphone Model:
 
 ### Container Settings
